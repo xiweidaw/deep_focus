@@ -20,6 +20,12 @@ DeepFocus 是一款拒绝繁杂、专注于当下的生产力工具。它结合�
 - **Local DB**: Hive (NoSQL)
 - **UI/UX**: Custom Painters, Animations, Dynamic Theming
 
----
+##截图
+
+![eef74e6ee019c35f2ee7b82fbe7ebd2d](https://github.com/user-attachments/assets/b3744472-4ab3-4b64-8e11-46dfbaa7dba3)
+![a06a6ca639857774241a7b2f07814c05](https://github.com/user-attachments/assets/4f5de23c-2c74-4163-a49a-dd272df10477)
+![483f0c8b7b07e63229eac54a5fda6051](https://github.com/user-attachments/assets/01122197-3aa2-449d-98cd-195807465479)
+
+
 
 *Designed & Developed by [Xiweidaw]*
